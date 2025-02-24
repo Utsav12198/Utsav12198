@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsav Singh</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJS, ExpressJS, MongoDB JS,**
+- 🌱 I’m currently working on **Java, Spring Boot, JavaScript, React, NodeJS, MySQL , MongoDB ,**
 
 - 📫 How to reach me **singh.utsav100@gmail.com**
 
